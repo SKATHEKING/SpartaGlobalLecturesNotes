@@ -1,0 +1,7 @@
+try and except blocks are used in order to cact errors soon when the code is running so that our application is not crashed.
+
+1-returns london weather
+2-returns artists from the genius webpage
+3- returns videogame borderlands from api
+4- return current price of bitcoin (important one atm)
+5- returns current ip address
